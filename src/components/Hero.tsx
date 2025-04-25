@@ -38,7 +38,7 @@ const Hero = () => {
       }}
     >
       <div className="absolute inset-0">
-        <div className="absolute inset-0 bg-[url('../../public/images/project3/img8.png')] bg-cover bg-center opacity-50"></div>
+        <div className="absolute inset-0 bg-[url('/ch-portfolio/images/project3/img8.png')] bg-cover bg-center opacity-50"></div>
       </div>
       
       <div className="relative h-full flex flex-col items-center justify-center px-6 text-center">
